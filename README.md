@@ -2,7 +2,7 @@
 
 > Il mio primo progetto! Un sito interattivo che calcola π usando il metodo dei poligoni inscritti e circoscritti di Archimede (250 a.C.)
 
-🔗 **Demo live:** `https://G3I-0x.github.io/pi-archimede-explorer/pi_archimede_pro.html`
+🔗 **Demo live:** `https://G3I-0x.github.io/pi-archimede-explorer_website/pi_archimede_pro.html`
 
 ---
 
